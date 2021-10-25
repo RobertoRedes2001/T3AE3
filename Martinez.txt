@@ -1,2 +1,6 @@
 Martinez Avendaño
+<<<<<<< HEAD
 usuari2
+=======
+usuari1 
+>>>>>>> origin/master
